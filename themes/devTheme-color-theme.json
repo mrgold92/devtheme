@@ -71,6 +71,16 @@
       }
     },
     {
+			"name": "Attribute",
+			"scope": [
+				"entity.other.attribute-name"
+			],
+			"settings": {
+				"foreground": "#18c7a1"
+			}
+		},
+    
+    {
       "name": "entity.name.lifetime.rust",
       "scope": "entity.name.lifetime.rust",
       "settings": {
@@ -778,14 +788,14 @@
       "name": "Tags",
       "scope": "entity.name.tag",
       "settings": {
-        "foreground": "#f7be75"
+        "foreground": "#e0564d"
       }
     },
     {
       "name": "Attributes",
       "scope": "entity.other.attribute-name",
       "settings": {
-        "foreground": "#d3d3d3"
+        "foreground": "#e0564d"
       }
     },
     {
@@ -801,7 +811,7 @@
       "scope": "entity.other.attribute-name.class.css",
       "settings": {
         "fontStyle": "normal",
-        "foreground": "#d3d3d3"
+        "foreground": "#12d695"
       }
     },
     {
