@@ -1,0 +1,22 @@
+{
+    "name": "devtheme",
+    "publisher": "davids14",
+    "displayName": "devTheme",
+    "description": "",
+    "version": "0.0.1",
+    "engines": {
+        "vscode": "^1.55.0"
+    },
+    "categories": [
+        "Themes"
+    ],
+    "contributes": {
+        "themes": [
+            {
+                "label": "devTheme",
+                "uiTheme": "vs-dark",
+                "path": "./themes/devTheme-color-theme.json"
+            }
+        ]
+    }
+}
