@@ -1,9 +1,14 @@
 {
     "name": "devtheme",
-    "publisher": "davids14",
+    "publisher": "devTheme",
+    "author": "David Salazar Rodero",
     "displayName": "devTheme",
     "description": "",
     "version": "0.0.1",
+    "repository": {
+        "type": "git",
+        "url": "https://github.com/mrgold92/devtheme"
+    },
     "engines": {
         "vscode": "^1.55.0"
     },
